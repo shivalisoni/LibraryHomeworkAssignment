@@ -1,0 +1,13 @@
+UniqueID,ItemID,Type,Title,Quantity,Borrower,Issue Date
+1,5,DVD,Pi,4,104,14/10/2023
+2,6,VHS,Pi,3,,
+3,1,Book,The Art Of Computer Programming Volumes 1-6,4,,
+4,2,Book,The Pragmatic Programmer,10,,
+5,3,Book,Java Concurrency In Practice,3,101,01/10/2023
+6,4,Book,Introduction to Algorithms,9,,
+7,5,DVD,Pi,4,,
+8,4,Book,Introduction to Algorithms,9,,
+9,6,VHS,WarGames,3,,
+10,7,VHS,Hackers,5,,
+11,4,Book,Introduction to Algorithms,9,,
+12,5,DVD,Pi,4,,
